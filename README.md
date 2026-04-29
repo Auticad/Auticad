@@ -3,7 +3,7 @@
 <p align="center">
 Sviluppatore autodidatta con formazione professionale continua.<br/>
 Specializzato in <strong>data analytics</strong>, <strong>automazione</strong> e <strong>sviluppo backend</strong>.<br/>
-Certificato Coursera · Power BI · Milano
+Certificato Coursera · Power BI
 </p>
 ---
  
@@ -58,11 +58,4 @@ Certificato Coursera · Power BI · Milano
  
 ---
  
-## Statistiche GitHub
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Auticad&show_icons=true&title_color=e6a817&icon_color=e6a817&border_color=e6a817&bg_color=ffffff" alt="GitHub Stats"/>
-</p>
----
- 
-<p align="center"><sub>Milano · formazione continua · autodidatta</sub></p>
+<p align="center"><sub>In formazione continua · autodidatta</sub></p>
