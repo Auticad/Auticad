@@ -1,8 +1,8 @@
 # About me
  
 <p align="center">
-Sviluppatore autodidatta con formazione professionale continua.<br/>
-Specializzato in <strong>data analytics</strong>, <strong>automazione</strong> e <strong>sviluppo backend</strong>.<br/>
+Sviluppatore autodidatta · Python · SQL Server · Power BI · Django · AutoCAD/Revit/Fusion 360.<br/>
+Specializzato in <strong>data analytics</strong>, <strong>automazione</strong>.<br/>
 Certificato Coursera · Power BI
 </p>
 ---
