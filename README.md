@@ -53,19 +53,10 @@ Certificato Coursera · Power BI
 | Progetto | Descrizione | Stack |
 |---|---|---|
 | [cv_cammise](https://auticad.github.io/cv_cammise/) | CV personale su GitHub Pages | HTML / CSS |
+| [Portfolio](https://github.com/Auticad/portfolio) | Portfolio personale con progetti, competenze e showcase tecnici | HTML / CSS / JavaScript |
 | Guide tecniche | Serie di guide stampabili su Python, SQL, Power BI, AI | HTML / Python |
-| Django apps | Progetti web in fase di pubblicazione | Django / Python |
-
-## Featured Projects
-
-- Django App → Scalable full-stack application with authentication, ORM and REST APIs  
-  https://github.com/TUO_USERNAME/django-project
-
-- Flask API → Lightweight backend service and modular API architecture  
-  https://github.com/TUO_USERNAME/flask-project
-
-- Personal Portfolio → Portfolio website with projects, skills and contact section  
-  https://github.com/TUO_USERNAME/portfolio
+| [Django apps](https://github.com/Auticad/django-projects) | Progetti web sviluppati con Django e backend Python | Django / Python |
+| [Flask apps](https://github.com/Auticad/flask-projects) | Microservizi e web app leggere sviluppate con Flask | Flask / Python |
  
 ---
  
